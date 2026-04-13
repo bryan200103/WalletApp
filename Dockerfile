@@ -1,11 +1,14 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
-COPY WalletApi/*.csproj ./WalletApi/
-RUN dotnet restore WalletApi/WalletApi.csproj
+COPY WalletApi/WalletApi.csproj ./WalletApi/
+WORKDIR /app/WalletApi
+RUN dotnet restore
 
+WORKDIR /app
 COPY WalletApi/. ./WalletApi/
-RUN dotnet publish WalletApi/WalletApi.csproj -c Release -o out
+WORKDIR /app/WalletApi
+RUN dotnet publish -c Release -o /app/out
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
