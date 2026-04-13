@@ -116,7 +116,7 @@
               "RelativeDocumentMoniker": "WalletApi\\Program.cs",
               "ToolTip": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Program.cs",
               "RelativeToolTip": "WalletApi\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T23:42:48.387Z",
               "EditorCaption": ""
@@ -131,8 +131,7 @@
               "RelativeToolTip": "WalletApi\\Controllers\\CategoriasController.cs",
               "ViewState": "AgIAAPAAAAAAAAAAAAAmwPwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T09:33:31.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T09:33:31.901Z"
             },
             {
               "$type": "Document",
@@ -180,8 +179,7 @@
               "RelativeToolTip": "WalletApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T07:29:02.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T07:29:02.292Z"
             },
             {
               "$type": "Document",

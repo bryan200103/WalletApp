@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\stsre\\source\\repos\\WalletApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|c:\\users\\stsre\\source\\repos\\walletapi\\walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|c:\\users\\stsre\\source\\repos\\walletapi\\walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|c:\\users\\stsre\\source\\repos\\walletapi\\walletapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|c:\\users\\stsre\\source\\repos\\walletapi\\walletapi\\data\\walletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\data\\walletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|c:\\users\\stsre\\source\\repos\\walletapi\\walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E14860C6-AE23-2B65-FFBD-57E3882CE605}|WalletApi\\WalletApi.csproj|c:\\users\\stsre\\source\\repos\\walletapi\\walletapi\\model\\deudamensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,6 +111,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Program.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Program.cs",
+              "ToolTip": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Program.cs",
+              "RelativeToolTip": "WalletApi\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T23:42:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "WalletApi\\Controllers\\CategoriasController.cs",
@@ -119,20 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WalletApi\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WalletApi\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAADwv2IAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T07:42:21.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DeudasController.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\DeudasController.cs",
               "RelativeDocumentMoniker": "WalletApi\\Controllers\\DeudasController.cs",
@@ -140,12 +144,11 @@
               "RelativeToolTip": "WalletApi\\Controllers\\DeudasController.cs",
               "ViewState": "AgIAAJ0AAAAAAAAAAAAuwK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T05:49:25.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T05:49:25.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GastosController.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\GastosController.cs",
               "RelativeDocumentMoniker": "WalletApi\\Controllers\\GastosController.cs",
@@ -153,12 +156,11 @@
               "RelativeToolTip": "WalletApi\\Controllers\\GastosController.cs",
               "ViewState": "AgIAAMsAAAAAAAAAAAAIwN4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T09:27:16.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T09:27:16.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CategoriaDTO.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\DTOs\\CategoriaDTO.cs",
               "RelativeDocumentMoniker": "WalletApi\\DTOs\\CategoriaDTO.cs",
@@ -166,12 +168,36 @@
               "RelativeToolTip": "WalletApi\\DTOs\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T09:34:27.743Z",
+              "WhenOpened": "2026-04-11T09:34:27.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WalletApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\appsettings.json",
+              "RelativeToolTip": "WalletApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T07:29:02.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WalletApi\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:42:21.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DashboardDTO.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\DTOs\\DashboardDTO.cs",
               "RelativeDocumentMoniker": "WalletApi\\DTOs\\DashboardDTO.cs",
@@ -179,12 +205,11 @@
               "RelativeToolTip": "WalletApi\\DTOs\\DashboardDTO.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAA2wEEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T07:38:16.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T07:38:16.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IngresosController.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\IngresosController.cs",
               "RelativeDocumentMoniker": "WalletApi\\Controllers\\IngresosController.cs",
@@ -196,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "WalletApi\\Controllers\\UsuariosController.cs",
@@ -208,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WalletApi\\Controllers\\AuthController.cs",
@@ -220,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WalletDbContext.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Data\\WalletDbContext.cs",
               "RelativeDocumentMoniker": "WalletApi\\Data\\WalletDbContext.cs",
@@ -232,19 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WalletApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\appsettings.json",
-              "RelativeToolTip": "WalletApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T07:29:02.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "20260411173256_AddMetasYAportes.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Migrations\\20260411173256_AddMetasYAportes.cs",
               "RelativeDocumentMoniker": "WalletApi\\Migrations\\20260411173256_AddMetasYAportes.cs",
@@ -256,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AporteMeta.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\AporteMeta.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\AporteMeta.cs",
@@ -268,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DeudaMensual.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\DeudaMensual.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\DeudaMensual.cs",
@@ -280,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Meta.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\Meta.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\Meta.cs",
@@ -292,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Gasto.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\Gasto.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\Gasto.cs",
@@ -304,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Ingreso.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\Ingreso.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\Ingreso.cs",
@@ -316,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\Categoria.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\Categoria.cs",
@@ -328,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ClaimsExtensions.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Extensions\\ClaimsExtensions.cs",
               "RelativeDocumentMoniker": "WalletApi\\Extensions\\ClaimsExtensions.cs",
@@ -340,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Model\\Usuario.cs",
               "RelativeDocumentMoniker": "WalletApi\\Model\\Usuario.cs",
@@ -352,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WalletApi\\Properties\\launchSettings.json",
@@ -364,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WalletApi\\appsettings.Development.json",
@@ -376,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20260410073303_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\stsre\\source\\repos\\WalletApi\\WalletApi\\Migrations\\20260410073303_InitialCreate.cs",
               "RelativeDocumentMoniker": "WalletApi\\Migrations\\20260410073303_InitialCreate.cs",

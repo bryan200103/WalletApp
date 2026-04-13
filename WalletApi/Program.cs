@@ -72,7 +72,7 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<WalletDbContext>();
-    db.Database.Migrate();
+    db.Database.EnsureCreated();  // Esto crea las tablas sin migraciones
 }
 
 
