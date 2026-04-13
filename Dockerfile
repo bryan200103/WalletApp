@@ -1,10 +1,18 @@
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /app
 
-COPY WalletApi/. ./WalletApi/
+# Forzar build limpio
+COPY WalletApi/WalletApi.csproj ./WalletApi/
 WORKDIR /app/WalletApi
 RUN dotnet restore
-RUN dotnet publish -c Release -o /app/out
+
+WORKDIR /app
+COPY WalletApi/. ./WalletApi/
+WORKDIR /app/WalletApi
+
+# Limpiar cualquier cache anterior
+RUN rm -rf obj bin
+RUN dotnet publish -c Release -o /app/out --no-restore
 
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
 WORKDIR /app
